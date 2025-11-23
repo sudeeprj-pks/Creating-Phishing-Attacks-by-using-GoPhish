@@ -7,20 +7,17 @@ Pre-requisites
 - Familiarity with using the command line interface (CLI).
 - Basic knowledge of social engineering principles.
 
-## Lab Set-up and Tools
-
-### Diagram
-Here is a simple network diagram for this lab setup:
 
 
-### Tools
-- **Kali Linux**: A Debian-derived Linux distribution designed for digital forensics and penetration testing.
-- **Gophish**: An open-source phishing toolkit.
-- **Email account**: For sending phishing emails.
-- **Web server**: To host the phishing website (can be set up using Apache or any other web server).
 
-### Installation
-#### Gophish
+ Tools
+ Kali Linux: A Debian-derived Linux distribution designed for digital forensics and penetration testing.
+- Gophish: An open-source phishing toolkit.
+- Email account: For sending phishing emails.
+- Web server: To host the phishing website (can be set up using Apache or any other web server).
+
+Installation
+ Gophish
 1. Download the latest release of Gophish from the [official website](https://github.com/gophish/gophish/releases).
 2. Extract the downloaded file:
    ```sh
@@ -73,9 +70,6 @@ Task 3: Analyze Phishing Attack Results
 Expected Output: A detailed report on the effectiveness of the phishing campaign, highlighting potential security weaknesses.
 
 
- Additional Resources
-- Gophish Documentation
-- Kali Linux Documentation
-- Anti-Phishing Working Group
+
 - Phishing Defense Guide
   
